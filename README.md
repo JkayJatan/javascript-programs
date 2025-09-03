@@ -1,6 +1,6 @@
-# JavaScript Playground 🚀
+# JavaScript Programs 🚀
 
-Welcome to **JavaScript Playground** — a collection of JavaScript programs, snippets, and projects created while learning and exploring the language.
+Welcome to **JavaScript Programs** — a collection of JavaScript programs, snippets, and projects created while learning and exploring the language.
 
 ## 📌 What's Inside
 - 🔹 Basic programs (loops, functions, arrays, objects)
